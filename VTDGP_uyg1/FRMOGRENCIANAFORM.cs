@@ -89,7 +89,6 @@ namespace VTDGP_uyg1
             else
             {
                 Pb_Ogrenci_Bilgi_Ekrani.Image = Properties.Resources.AboutGreen;
-
             }
         }
     }
