@@ -1,0 +1,12 @@
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\bin\Debug\VTDGP_uyg1.exe.config
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\bin\Debug\VTDGP_uyg1.exe
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\bin\Debug\VTDGP_uyg1.pdb
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\obj\Debug\VTDGP_uyg1.csproj.AssemblyReference.cache
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\obj\Debug\VTDGP_uyg1.csproj.SuggestedBindingRedirects.cache
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\obj\Debug\VTDGP_uyg1.Properties.Resources.resources
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\obj\Debug\VTDGP_uyg1.csproj.GenerateResource.cache
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\obj\Debug\VTDGP_uyg1.csproj.CoreCompileInputs.cache
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\obj\Debug\VTDGP_uyg1.exe
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\obj\Debug\VTDGP_uyg1.pdb
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\obj\Debug\VTDGP_uyg1.FRMOGRENCİGİRİS.resources
+C:\Users\90539\source\repos\VTDGP_uyg1\VTDGP_uyg1\obj\Debug\VTDGP_uyg1.FRMOGRENCIANAFORM.resources
